@@ -1,0 +1,45 @@
+---
+title: "DNN"
+output: html_document
+---
+
+
+
+(text that is shown)[link.com]
+
+[text that is shown](link.com)
+__some text__
+**some text**
+~~strikethrough~~
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
