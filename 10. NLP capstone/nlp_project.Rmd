@@ -1,0 +1,44 @@
+---
+title: "Untitled"
+output: html_document
+---
+```{r}
+getwd()
+```
+```{r}
+install.packages("bigreadr")
+```
+
+```{r}
+library(tidyverse)
+library(data.table)
+library(bigreadr)
+```
+
+
+```{r}
+path <- "D:/1.Linux/Data/JHU data/capstone_data/en_US/en_US.twitter.txt"
+data <- fread(path)
+```
+
+
+```{r}
+complaints
+```
+
+
+```{r}
+path <- "D:/1.Linux/Data/JHU data/capstone_data/en_US/en_US.twitter.txt"
+nlines(path)
+```
+
+
+```{r}
+con <- file(path, "r") 
+readLines(con,)
+```
+
+
+```{r}
+```
+
